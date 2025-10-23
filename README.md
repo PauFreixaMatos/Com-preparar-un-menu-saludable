@@ -1,6 +1,19 @@
-Mi menú saludable
-Projecte per a l'activitat 0373: lloc web amb 4 pàgines que mostra com preparar un menú saludable.
+# 🍽️ Com preparar un menú saludable
 
-Pàgines incloses: index.html, primer.html, segon.html, postres.html
+### AE2 — *El meu menú saludable*  
+**Mòdul:** 0373 — Llenguatges de marques i sistemes de gestió d'informació  
+**Professor:** Alberto de Santos Ontoria  
+**Alumne:** Pau Freixa Matos  
 
-Publica a GitHub Pages posant el contingut a la branca main i activant Pages a Settings.
+---
+
+Aquest projecte és un lloc web amb quatre pàgines que mostren com preparar un menú saludable, des del primer plat fins al postres.
+
+## 🌿 Pàgines incloses
+- `index.html` → Pàgina principal  
+- `primer.html` → Primer plat  
+- `segon.html` → Segon plat  
+- `postres.html` → Postres
+
+
+🔗 [Visita la web aquí](https://paufreixamatos.github.io/Com-preparar-un-menu-saludable/)
